@@ -1,5 +1,7 @@
 # Problem Solving is an ART!
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/27c9bea139254d19be248e8779adb252)](https://app.codacy.com/app/yasserkabbout/problem-solving-algorithms?utm_source=github.com&utm_medium=referral&utm_content=yasserkabbout/problem-solving-algorithms&utm_campaign=Badge_Grade_Dashboard)
+
 ## In-progress (11/10/2018)
 
 Problem solving algorithms related to data structures are listed in Java.
