@@ -2,6 +2,8 @@ A non-empty array A consisting of N integers is given. The array contains an odd
 
 For example, in array A such that:
 
+A=[9,3,9,3,9,7,9]
+
   A[0] = 9  A[1] = 3  A[2] = 9
   A[3] = 3  A[4] = 9  A[5] = 7
   A[6] = 9
