@@ -1,6 +1,6 @@
 # Problem Solving is an ART!
 
-##In-progress (11/10/2018)
+## In-progress (11/10/2018)
 
 Problem solving algorithms related to data structures are listed in Java.
 
