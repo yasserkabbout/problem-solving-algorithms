@@ -9,6 +9,9 @@ A=[9,3,9,3,9,7,9]
   A[6] = 9
   
 the elements at indexes 0 and 2 have value 9,
+
 the elements at indexes 1 and 3 have value 3,
+
 the elements at indexes 4 and 6 have value 9,
+
 the element at index 5 has value 7 and is unpaired.
