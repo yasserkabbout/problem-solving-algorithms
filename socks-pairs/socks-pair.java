@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class SocksParis {
+public class SocksPairs {
 
 
     public static void main(String[] args) {
